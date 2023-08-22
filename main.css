@@ -1,5 +1,26 @@
 /* Your code here */
+#page-title{
+    font-weight: 800;
+}
+.pagenum{
+    position: absolute;
+    right: 10px;
+    font-size: small;
+}
 
+p{
+    text-align: justify;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
+}
+
+pre{
+    margin: 100px auto;
+}
+
+a{
+    text-decoration: none;
+}
 /* ===== DO NOT EDIT BELOW THIS COMMENT ===== */
 
 .noin {
